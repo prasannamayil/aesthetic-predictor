@@ -1,0 +1,13 @@
+pandas
+requests
+scikit-learn
+tqdm
+Pillow
+# For PyTorch (check compatibility with your CUDA version if using GPU):
+# Go to https://pytorch.org/get-started/locally/ for specific install commands
+torch
+torchvision
+# For OpenAI CLIP:
+# Note: requires torch above. Installation might differ slightly based on OS/CUDA.
+# pip install git+https://github.com/openai/CLIP.git
+clip-by-openai 
